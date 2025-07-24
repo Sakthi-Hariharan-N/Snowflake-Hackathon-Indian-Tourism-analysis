@@ -3,6 +3,9 @@ Bridging art, culture and tourism - Snowflake - streamlit Dashboard
 🇮🇳 Indian Tourism Insights Dashboard
 A data-driven tourism storytelling dashboard built using Snowflake and Streamlit that showcases regional art, culture, and tourist data across Indian states.
 
+
+
+
 🚀 Features
 ✅ Interactive dashboard with state-wise analysis
 
@@ -97,4 +100,11 @@ Plotly
 
 data.gov.in (Government Open Data License)
 
+
+
+#TEAM  MEMBERS:
+#1.HARI HARAN
+#2.MAHESWARAN
+#3.NANDHAGOPAL
+#4.RAMAR
 
